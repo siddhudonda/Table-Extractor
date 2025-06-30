@@ -1,5 +1,8 @@
 from setuptools import setup, find_packages
-                                                                                              
+
+
+
+
 setup(
     name="pdf_table_extractor",
     version="0.1.0",
